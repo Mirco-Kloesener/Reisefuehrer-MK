@@ -5,23 +5,4 @@
     text-shadow: 0.09em 0.25em rgb(218, 214, 214), 0.19em 0.5em blue, 0 0 0.3em red, 0.1em 0.7em 0.3em blue ;
   
 }
-body {
-     background-color: rgb(129, 82, 24);
-}
-section {
-    width: 80%;
-    height: 100%;
-    margin: 0% 10% 0% 10%;
-    background-color: bisque;
-   
-    
-   /*  margin-top: 2%;
-    margin-left: 10%;
-    margin-right: 10%;
-    margin-bottom: 0% ;   */ 
-}
-.row {
-    display: flex;
-    justify-content: center;
-    
-}
+
