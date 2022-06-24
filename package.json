@@ -1,0 +1,25 @@
+{
+  "name": "Reisefuehrer-MK",
+  "version": "1.0.0",
+  "description": "## Aufgabenbeschreibung Erstelle in einem eigenen Repository einen Reiseführer unter Verwendung von Bootstrap. Der Reiseführer soll Urlaubsziele in einem von Dir gewählten Land oder Kontinent auflisten und wertvolle Informationen an die Anwender vermitteln.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mirco-Kloesener/Reisefuehrer-MK.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mirco-Kloesener/Reisefuehrer-MK/issues"
+  },
+  "homepage": "https://github.com/Mirco-Kloesener/Reisefuehrer-MK#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.1.1",
+    "@popperjs/core": "^2.11.5",
+    "bootstrap": "^5.2.0-beta1"
+  }
+}
